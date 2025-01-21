@@ -1,2 +1,2 @@
 # DD-Innovations
-This repository is a collection of implementations for various Embedded and IoT components aimed at enhancing smart city innovation. It includes projects such as sensor integrations, real-time monitoring dashboards, and infrastructure automation solutions, leveraging cutting-edge technologies for smart city applications.
+A curated collection of practical implementations for Embedded and IoT applications. Includes communication protocols (UART, SPI, Modbus, TCP/IP), device integrations (Arduino, ESP, Raspberry Pi, Industrial PCs), dashboard development, and basic networking concepts for smart city and industrial automation.
